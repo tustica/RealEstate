@@ -9,6 +9,6 @@ cd dist
 git init
 git add -A 
 git commit -m 'RealEstate'
-git push -f https://github.com/tustica/RealEstate.git master:gh-pages
+git push -f https://github.com/tustica/RealEstate.git master
 
 cd -
