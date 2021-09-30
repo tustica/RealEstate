@@ -49,7 +49,7 @@ export default {
     }
     #sink{
         position: absolute;
-        opacity: 40%;
+        opacity: .7;
         top: -50px;
         color: rgb(75, 195, 59);
         transform: rotate(49deg);
@@ -62,7 +62,7 @@ export default {
         left: 700px;
         top: 200px;
         position: absolute;
-        opacity: 40%;
+        opacity: .7;
         color: rgb(68, 59, 195);
     }
     .house_ate{
@@ -74,7 +74,7 @@ export default {
         left: 100px;
         top: 600px;
         position: absolute;
-        opacity: 40%;
+        opacity: .7;
         color: rgb(68, 59, 195);
         transform: rotate(80deg);
     }
@@ -87,7 +87,7 @@ export default {
         left: 150px;
         top: 450px;
         position: absolute;
-        opacity: 40%;
+        opacity: .7;
         color: rgb(197, 46, 46);
     }
     .door_ate{
